@@ -1,6 +1,6 @@
 {
   "name": "hydra-express-plugin-jwt-simple-auth",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "HydraExpressPlugin for auth",
   "main": "index.js",
   "scripts": {
